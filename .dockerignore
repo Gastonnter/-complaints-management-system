@@ -1,0 +1,4 @@
+postgres_data
+dist
+node
+ormconfig.json
