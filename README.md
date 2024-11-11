@@ -17,12 +17,3 @@
 - [Jest](https://jestjs.io/): framework para escribir tests.
 
 Para crear un proyecto siguiendo esta plantilla, lo único que tenés que hacer es clickear en el botón que dice `Use this template`. ¡Y no te olvides de cambiarle el nombre en el `package.json`!
-
-
-
-Populate DB
-
-```
-http://localhost:3000/seed
-
-```
